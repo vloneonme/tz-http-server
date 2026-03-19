@@ -1,4 +1,7 @@
 ### Документация =]
+
+самый простой вывод текста в странице в браузере
+
 Запуск
 1. ```git clone git@github.com:vloneonme/tz-http-server.git``` 
 2. ```cd tz-http-server```
